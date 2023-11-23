@@ -1,0 +1,3 @@
+*.sh
+!gen_ex.sh
+langs
