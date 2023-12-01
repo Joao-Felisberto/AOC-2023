@@ -37,10 +37,8 @@ create_project() {
             ;;
         "nim")
 			mkdir "$folder"
-			mkdir "$folder/src"
-			touch "$folder/src/nim.nim"
 			cd "$folder"
-            nimble init -y
+            nimble init
 			cd ..
             ;;
         "zig")
