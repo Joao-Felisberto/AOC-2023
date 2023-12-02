@@ -1,6 +1,4 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// My AOC library in dart
 library;
 
 export 'src/aoc_dart_lib_base.dart';
