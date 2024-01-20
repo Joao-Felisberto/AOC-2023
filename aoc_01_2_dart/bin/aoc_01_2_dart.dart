@@ -13,7 +13,7 @@ final Map<String, int> nameToNumberTranslation = const {
   "seven": 7,
   "eight": 8,
   "nine": 9,
-  // "0": 0,
+   //"0": 0,
   "1": 1,
   "2": 2,
   "3": 3,
